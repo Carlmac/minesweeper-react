@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Carlmac/minesweeper-react-demo/static/css/main.8e824b84.chunk.css",
-    "main.js": "/Carlmac/minesweeper-react-demo/static/js/main.1501c5a6.chunk.js",
-    "main.js.map": "/Carlmac/minesweeper-react-demo/static/js/main.1501c5a6.chunk.js.map",
-    "runtime-main.js": "/Carlmac/minesweeper-react-demo/static/js/runtime-main.1aee0515.js",
-    "runtime-main.js.map": "/Carlmac/minesweeper-react-demo/static/js/runtime-main.1aee0515.js.map",
-    "static/js/2.df91b091.chunk.js": "/Carlmac/minesweeper-react-demo/static/js/2.df91b091.chunk.js",
-    "static/js/2.df91b091.chunk.js.map": "/Carlmac/minesweeper-react-demo/static/js/2.df91b091.chunk.js.map",
-    "index.html": "/Carlmac/minesweeper-react-demo/index.html",
-    "static/css/main.8e824b84.chunk.css.map": "/Carlmac/minesweeper-react-demo/static/css/main.8e824b84.chunk.css.map",
-    "static/js/2.df91b091.chunk.js.LICENSE.txt": "/Carlmac/minesweeper-react-demo/static/js/2.df91b091.chunk.js.LICENSE.txt"
+    "main.css": "/minesweeper-react/static/css/main.8e824b84.chunk.css",
+    "main.js": "/minesweeper-react/static/js/main.1501c5a6.chunk.js",
+    "main.js.map": "/minesweeper-react/static/js/main.1501c5a6.chunk.js.map",
+    "runtime-main.js": "/minesweeper-react/static/js/runtime-main.1aee0515.js",
+    "runtime-main.js.map": "/minesweeper-react/static/js/runtime-main.1aee0515.js.map",
+    "static/js/2.df91b091.chunk.js": "/minesweeper-react/static/js/2.df91b091.chunk.js",
+    "static/js/2.df91b091.chunk.js.map": "/minesweeper-react/static/js/2.df91b091.chunk.js.map",
+    "index.html": "/minesweeper-react/index.html",
+    "static/css/main.8e824b84.chunk.css.map": "/minesweeper-react/static/css/main.8e824b84.chunk.css.map",
+    "static/js/2.df91b091.chunk.js.LICENSE.txt": "/minesweeper-react/static/js/2.df91b091.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1aee0515.js",
